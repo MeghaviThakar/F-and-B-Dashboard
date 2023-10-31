@@ -8,6 +8,9 @@ Sales Report: This page provides a detailed breakdown of sales data, including t
 Demographics: This page provides insights into customer demographics, such as age, gender, location, and type of membership.
 Marketing Data: This page provides information on marketing campaigns, including profit, cost, impressions, and click-through rate (CTR).
 
+![image](https://github.com/MeghaviThakar/F-and-B-Dashboard/assets/126433977/46b136ad-6ce4-4223-94c1-db3337d06d4b)
+
+
 The dashboard is built using a variety of data sources, including the following:
 
 Calendar table: This table contains information about dates, times, and days of the week.
